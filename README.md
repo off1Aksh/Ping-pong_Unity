@@ -29,7 +29,7 @@ This project was created as part of a college assignment to demonstrate basic ga
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/off1Aksh/Ping-pong_Project.git
+   git clone https://github.com/off1Aksh/Ping-pong_Unity.git
 2. Open it in Unity.
 3. Open MainScene and click Play to try the game!
 
